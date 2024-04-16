@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **final year project**
 
-- 🌱 I’m currently learning **React, Node.js, Laravel**
+- 🌱 I’m currently learning **Python, Figma**
 
 - 📫 How to reach me **nikita.karpovs2004@inbox.lv**
 
