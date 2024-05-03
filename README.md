@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **final year project**
 
-- 🌱 I’m currently learning **Python, Figma**
-
 - 📫 How to reach me **nikita.karpovs2004@inbox.lv**
-
-- ⚡ Fun fact **I love skateboarding and football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
