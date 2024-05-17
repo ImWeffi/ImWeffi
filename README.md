@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A Enthusiastic programmer from Latvia</h3>
 
-- 🔭 I’m currently working on **final year project**
+- 🔭 
 
 - 📫 How to reach me **nikita.karpovs2004@inbox.lv**
 
